@@ -12,21 +12,29 @@
 
 ![NKUST](logo.png "NKUST")
 
-- [ ] to do list
+## to do list
 - [x] 1st thing
 - [ ] 2st thing
 - [ ] 3st thing
 - [ ] 4st thing
 
+---
+
+python code
 ```python
 s = "python highlighted syntex"
 print(s)
 ```
 
+---
+
+javascript code
 ```js
 var s = "Javascipt highlights"
 alert(s)
 ```
+
+---
 
 Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
@@ -38,6 +46,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 ---
 
+Colons can be used to columns.
 |  Tables | Are | Cool |
 |:--------|:---:|-----:|
 |col 3 is|right-allgned|$1600|
@@ -46,6 +55,8 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 ---
 
+There must be at least 3 dashes separating each header cell.  
+The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.  
 |  Martdown | Less | Pretty |
 |:--------|:---|:----|
 |*Still*|`rander`|**nicely**|
