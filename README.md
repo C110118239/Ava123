@@ -18,3 +18,12 @@
 - [ ] 3st thing
 - [ ] 4st thing
 
+```python
+s = "python highlighted syntex"
+print(s)
+```
+
+```js
+var s = "Javascipt highlights"
+print(s)
+```
