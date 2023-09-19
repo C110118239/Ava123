@@ -48,7 +48,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 |  Martdown | Less | Pretty |
 |:--------|:---|:----|
-|*Still*|renders|**nicely**|
+|*Still*|`rander`|**nicely**|
 |1|2|3|
 
 ---
