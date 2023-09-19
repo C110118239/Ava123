@@ -20,7 +20,7 @@
 
 ---
 
-python code
+**python code**
 ```python
 s = "python highlighted syntex"
 print(s)
@@ -28,7 +28,7 @@ print(s)
 
 ---
 
-javascript code
+**javascript code**
 ```js
 var s = "Javascipt highlights"
 alert(s)
