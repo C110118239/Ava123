@@ -10,7 +10,7 @@
 
 -----
 
-![NKUST](logo.png "NKUST")
+![NKUST](logo.png "NUST")
 
 ## to do list
 - [x] 1st thing
